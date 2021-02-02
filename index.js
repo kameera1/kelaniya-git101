@@ -6,4 +6,8 @@ function greet(name){
     console.log(`Hello ${name}`);
 }
 
+function greet2(name){
+    console.log(`Hello World!`);
+}
+
 greet(NAME);
