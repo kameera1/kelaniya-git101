@@ -10,4 +10,9 @@ function greet2(name){
     console.log(`Hello World!`);
 }
 
-greet(NAME);
+function greet3(name){
+    console.log(`Hello World!`);
+}
+
+greet(NAME); 
+greet3(NAME);
